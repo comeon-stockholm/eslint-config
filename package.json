@@ -42,8 +42,8 @@
 		"react": ">=16.0.0"
 	},
 	"devDependencies": {
-		"@comeon-group/prettier-config": "^1.3.0",
-		"eslint": "^6.8.0",
-		"jest": "^24.9.0"
+		"@comeon-group/prettier-config": "1.3.0",
+		"eslint": "6.8.0",
+		"jest": "24.9.0"
 	}
 }
