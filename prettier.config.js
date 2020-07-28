@@ -1,1 +1,1 @@
-module.exports = require('@comeon/prettier-config');
+module.exports = require('@comeon-group/prettier-config');
